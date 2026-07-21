@@ -76,6 +76,7 @@ library
                       PostgREST.Metrics
                       PostgREST.Network
                       PostgREST.Observation
+                      PostgREST.Process.Restart
                       PostgREST.Query
                       PostgREST.Query.PreQuery
                       PostgREST.Query.QueryBuilder
